@@ -1,4 +1,4 @@
-Hi, I'm Mohamed Ali 
+## Hi, I'm Mohamed Ali  
 
 Node.js Developer & Web Scraping Engineer
 
@@ -52,12 +52,34 @@ Tools
 What I Work On
 
 Web Scraping
+## Current Projects
 
-- Product data extraction
-- Search result scraping
-- Automated browser interactions
-- Data collection workflows
-- Dynamic website scraping
+Amazon Product Scraper
+
+A Playwright-based scraping project that searches Amazon products and extracts structured product information, including titles, prices, ratings, and product links.
+
+Key Features
+
+- Product search automation
+- Data extraction from search results
+- Structured output generation
+- Playwright browser automation
+
+GitHub Repository:https://github.com/Mohamed-Ali-Auto-dev/Amazon-playwright-scraper
+
+bazooka Menu Scraper
+
+A web scraping project designed to collect and organize menu data from the bazooka website.
+
+Key Features
+
+- Menu data extraction
+- Structured data collection
+- Automated navigation
+- Data processing and organization
+
+GitHub 
+Repository:https://github.com/Mohamed-Ali-Auto-dev/bazooka-egypt-scraper
 
 Automation
 
@@ -66,21 +88,9 @@ Automation
 - Data gathering scripts
 - Repetitive workflow automation
 
----
-
-Featured Projects
-
-Scraping Projects
-
-Projects built with Playwright for collecting and processing data from websites.
-
-Automation Scripts
-
-Custom scripts designed to automate browser-based tasks and workflows.
-
-
-
 Contact
+
+GitHub:https://github.com/Mohamed-Ali-Auto-dev
 
 LinkedIn:https://www.linkedin.com/in/mohamed-ali-a8ab70415
 
