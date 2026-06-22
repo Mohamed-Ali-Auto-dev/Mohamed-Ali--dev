@@ -15,9 +15,11 @@ Key Features
 - Structured output generation
 - Playwright browser automation
 
-Example Output
+## Example Output
 
-JSON
+### JSON
+
+```json
 {
   "itemName": "Laptop Example",
   "itemPrice": "25000",
@@ -25,9 +27,15 @@ JSON
   "reviewNumber": "125",
   "itemlink": "https://www.amazon.eg/example"
 }
-Excel
-Item Name	Price	Reviews Rating	Review Number	Product Link
-Laptop Example	25000	4.5	125	Open Product
+```
+
+### Excel
+
+| Item Name | Price | Reviews Rating | Review Number | Product Link |
+|------------|---------|----------------|----------------|-------------|
+| Laptop Example | 25000 | 4.5 | 125 | Open Product |
+
+---
 
 
 GitHub Repository: [View Project Repository]( https://github.com/Mohamed-Ali-Auto-dev/Amazon-playwright-scraper)   
@@ -43,7 +51,9 @@ Key Features
 - Automated navigation
 - Data processing and organization
 
-Sample Output
+## Sample Output
+
+```json
 [
     {
         "category": "offers",
@@ -83,7 +93,7 @@ Sample Output
         ]
     }
 ]
-
+```
 
 GitHub Repository:   [View Project Repository](https://github.com/Mohamed-Ali-Auto-dev/bazooka-egypt-scraper) 
 
