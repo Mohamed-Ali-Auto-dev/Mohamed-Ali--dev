@@ -1,3 +1,7 @@
+<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 12_03_30 PM" src="https://github.com/user-attachments/assets/b7a103a1-ae00-4e8f-ac52-014d16fc9eee" />
+
+
+
 ## Hi, I'm Mohamed Ali  
 
 Node.js Developer & Web Scraping Engineer
